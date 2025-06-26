@@ -56,7 +56,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=govindkumawat&show_icons=true&theme=tokyonight" alt="Govind's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=govindkumawat&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govindkumawat&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
